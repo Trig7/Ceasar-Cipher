@@ -6,3 +6,6 @@ A c++ header file for easily encrypting and decrypting strings.
 
 **Decrypting:**\
 ```std::string decrypedMessage = decrypt(str, key);```
+
+**Minimum Key: **```-8```\
+**Maximum Key: **```8``` 
