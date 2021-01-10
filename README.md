@@ -1,7 +1,6 @@
 # Ceasar-Cipher
 A c++ header file for easily encrypting and decrypting strings
 
-**USE**
-
+**USE**\
 **Encrypting:**\
-```std::string encrypedMessage = encrypt("Hello World!", 1);```
+```std::string encrypedMessage = encrypt(str, key);```
